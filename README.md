@@ -12,14 +12,14 @@ Tenho grande experiência prática com hardware (peças de computador) e domíni
 ## 📄 Currículo Profissional
 
 ### 🎓 Formação Acadêmica
-* [cite_start]**Ensino Médio e Curso de Robótica**[cite: 17].
-* [cite_start]**Graduação:** [Insira o Nome do Seu Curso e Faculdade Aqui][cite: 17].
+* **Ensino Médio e Curso de Robótica**.
+* **Graduação:** A concluir.
 
 ### 🛠️ Habilidades Técnicas
 * **Hardware:** Montagem, manutenção e diagnóstico de peças de computador.
 * **Sistemas:** Configuração e operação de Sistemas Operacionais.
 * **Eletrônica/Robótica:** Lógica de programação e automação.
-* [cite_start]**Ferramentas:** Git e GitHub[cite: 4].
+* [cite_start]**Ferramentas:** Git e GitHub e Arduino(IDE).
 
 ### 💼 Experiência Profissional
 * **Suporte Técnico (Micreiro):** Atendimento e resolução de problemas de software e hardware.
@@ -35,13 +35,13 @@ Desenvolvimento de um painel solar inteligente que se movimenta seguindo a luz s
 ---
 
 ## 📊 Habilidades e Competências
-> **Acesse minha apresentação visual aqui:** [Link para seu Google Slides]
-[cite_start]*Nota: Conforme os requisitos, as habilidades foram organizadas de forma atraente em slides para melhor visualização[cite: 23, 24].*
+> **Acesse minha apresentação visual aqui:** file:///D:/Profile-Luis%20Eduardo%20(1).pdf
+
 
 ---
 
 ## 💬 Recomendações e Testemunhos
-[cite_start]*Espaço reservado para feedbacks de professores e colegas sobre meu desempenho e proatividade[cite: 28].*
+[cite_start]*Espaço reservado para feedbacks de professores e colegas sobre meu desempenho e proatividade*
 
 ---
 
