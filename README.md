@@ -19,7 +19,7 @@ Tenho grande experiência prática com hardware (peças de computador) e domíni
 * **Hardware:** Montagem, manutenção e diagnóstico de peças de computador.
 * **Sistemas:** Configuração e operação de Sistemas Operacionais.
 * **Eletrônica/Robótica:** Lógica de programação e automação.
-* [cite_start]**Ferramentas:** Git e GitHub e Arduino(IDE).
+* **Ferramentas:** Git e GitHub e Arduino(IDE).
 
 ### 💼 Experiência Profissional
 * **Suporte Técnico (Micreiro):** Atendimento e resolução de problemas de software e hardware.
@@ -41,11 +41,11 @@ Desenvolvimento de um painel solar inteligente que se movimenta seguindo a luz s
 ---
 
 ## 💬 Recomendações e Testemunhos
-[cite_start]*Espaço reservado para feedbacks de professores e colegas sobre meu desempenho e proatividade*
+*Espaço reservado para feedbacks de professores e colegas sobre meu desempenho e proatividade*
 
 ---
 
 ## 📞 Contato
-* [cite_start]**Telefone:** (61) 99620-6519 
-* [cite_start]**Instagram:** [@duduvsm__](https://instagram.com/duduvsm__) 
-* [cite_start]**LinkedIn:** [Seu Link do LinkedIn Aqui]
+* **Telefone:** (61) 99620-6519 
+* **Instagram:** [@duduvsm__](https://instagram.com/duduvsm__) 
+* **LinkedIn:** [Seu Link do LinkedIn Aqui]
