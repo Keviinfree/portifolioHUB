@@ -1,50 +1,40 @@
-# portifolioHUB
-# 🚀 Bem-vindo ao meu portfolioHUB
+# 💻 Meu Portfólio Profissional & Acadêmico (PortfolioHUB)
 
-## 👤 Perfil Pessoal
-Sou um jovem de 18 anos muito esforçado e apaixonado pelo universo da tecnologia, com foco especial em **programação**. Minha trajetória é marcada pela curiosidade técnica e pelo desejo constante de aprender como as coisas funcionam por dentro.
-
-### ✍️ Biografia
-Tenho grande experiência prática com hardware (peças de computador) e domínio de sistemas operacionais. Durante o ensino médio, realizei um curso de robótica que consolidou minha base lógica. Também já atuei profissionalmente como "micreiro", resolvendo problemas técnicos e realizando manutenções em computadores.
+Bem-vindo ao meu repositório de portfólio! [cite_start]Este espaço foi desenvolvido para centralizar meus principais projetos acadêmicos e de iniciativa pessoal, demonstrando minha evolução técnica em desenvolvimento de software, eletrônica e infraestrutura[cite: 5].
 
 ---
 
-## 📄 Currículo Profissional
-
-### 🎓 Formação Acadêmica
-* **Ensino Médio e Curso de Robótica**.
-* **Graduação:** A concluir.
-
-### 🛠️ Habilidades Técnicas
-* **Hardware:** Montagem, manutenção e diagnóstico de peças de computador.
-* **Sistemas:** Configuração e operação de Sistemas Operacionais.
-* **Eletrônica/Robótica:** Lógica de programação e automação.
-* **Ferramentas:** Git e GitHub e Arduino(IDE).
-
-### 💼 Experiência Profissional
-* **Suporte Técnico (Micreiro):** Atendimento e resolução de problemas de software e hardware.
+## 👨‍💻 Sobre Mim
+* **Formação:** Estudante Universitário.
+* **Background Técnico:** Experiência prática com manutenção de computadores, peças de hardware, sistemas operacionais e montagem técnica.
+* **Histórico:** Curso técnico/extensão em Robótica durante o Ensino Médio.
+* **Competências:** Git/GitHub, Modelagem de Dados (MER/DER), Lógica Proposicional e Computacional.
 
 ---
 
-## 🛠️ Projetos Desenvolvidos
-### ☀️ Painel Solar Automatizado
-Desenvolvimento de um painel solar inteligente que se movimenta seguindo a luz solar para otimizar a captação de energia.
-* **Tecnologias:** Arduino, Sensores de Luz, Servomotores e Painel Solar Fotovoltaico.
-* **Destaque:** Integração entre hardware e código para automação sustentável.
+## [cite_start]🛠️ Estrutura do Repositório 
+
+### [cite_start]1. Projetos Pessoais [cite: 37]
+* **[Automação de Painel Solar](./projetos-pessoais/automacao-painel-solar/)**
+  * *Descrição:* Projeto de automação desenvolvido com Arduino e servo motores que rotaciona mecanicamente um painel solar de forma automática para seguir a maior incidência de luz solar (usando sensores LDR).
+  * *Tecnologias:* C++ (Arduino IDE), Eletrônica e Hardware.
+
+### [cite_start]2. Projetos Acadêmicos [cite: 37]
+* **[Modelagem de Banco de Dados](./projetos-academicos/modelagem-banco-dados/)**
+  * *Descrição:* Resoluções de Modelos Entidade-Relacionamento (MER) e Diagramas Entidade-Relacionamento (DER).
+* **[Arquitetura de Computadores e Lógica](./projetos-academicos/arquitetura-computadores/)**
+  * *Descrição:* Estudos acadêmicos de circuitos digitais, lógica proposicional e organização de hardware.
 
 ---
 
-## 📊 Habilidades e Competências
-> **Acesse minha apresentação visual aqui:** file:///D:/Profile-Luis%20Eduardo%20(1).pdf
-
-
----
-
-## 💬 Recomendações e Testemunhos
-*Espaço reservado para feedbacks de professores e colegas sobre meu desempenho e proatividade*
+## [cite_start]🌐 GitHub Pages [cite: 48]
+Visualize a documentação deste portfólio online:
+👉 [Acessar meu GitHub Pages](https://Keviinfree.github.io/portifolioHUB/)
 
 ---
 
+## 📩 Contato
+* **Região:** Brasília - DF
 ## 📞 Contato
 * **Telefone:** (61) 99620-6519 
 * **Instagram:** [@duduvsm__](https://instagram.com/duduvsm__) 
