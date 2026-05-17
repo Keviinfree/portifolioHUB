@@ -12,14 +12,14 @@ Bem-vindo ao meu repositório de portfólio! [cite_start]Este espaço foi desenv
 
 ---
 
-## [cite_start]🛠️ Estrutura do Repositório 
+## 🛠️ Estrutura do Repositório 
 
-### [cite_start]1. Projetos Pessoais [cite: 37]
+### 1. Projetos Pessoais [cite: 37]
 * **[Automação de Painel Solar](./projetos-pessoais/automacao-painel-solar/)**
   * *Descrição:* Projeto de automação desenvolvido com Arduino e servo motores que rotaciona mecanicamente um painel solar de forma automática para seguir a maior incidência de luz solar (usando sensores LDR).
   * *Tecnologias:* C++ (Arduino IDE), Eletrônica e Hardware.
 
-### [cite_start]2. Projetos Acadêmicos [cite: 37]
+### 2. Projetos Acadêmicos [cite: 37]
 * **[Modelagem de Banco de Dados](./projetos-academicos/modelagem-banco-dados/)**
   * *Descrição:* Resoluções de Modelos Entidade-Relacionamento (MER) e Diagramas Entidade-Relacionamento (DER).
 * **[Arquitetura de Computadores e Lógica](./projetos-academicos/arquitetura-computadores/)**
@@ -27,7 +27,7 @@ Bem-vindo ao meu repositório de portfólio! [cite_start]Este espaço foi desenv
 
 ---
 
-## [cite_start]🌐 GitHub Pages [cite: 48]
+## 🌐 GitHub Pages [cite: 48]
 Visualize a documentação deste portfólio online:
 👉 [Acessar meu GitHub Pages](https://Keviinfree.github.io/portifolioHUB/)
 
